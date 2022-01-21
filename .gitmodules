@@ -1,0 +1,9 @@
+[submodule "balena-rpiplay"]
+	path = balena-rpiplay
+	url = https://github.com/rahul-thakoor/balena-rpiplay.git
+[submodule "balena-pihole"]
+	path = balena-pihole
+	url = https://github.com/klutchell/balena-pihole.git
+[submodule "balena-sound"]
+	path = balena-sound
+	url = https://github.com/balenalabs/balena-sound.git
